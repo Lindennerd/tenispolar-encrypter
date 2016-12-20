@@ -12,6 +12,9 @@
   },
   "author": "Lindennerd",
   "license": "ISC",
+  "bin": {
+    "tenispolar": "./index.js"
+  },
   "bugs": {
     "url": "https://github.com/Lindennerd/tenispolar-encrypter/issues"
   },
