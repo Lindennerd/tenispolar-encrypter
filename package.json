@@ -1,0 +1,22 @@
+{
+  "name": "tenispolar-encrypter",
+  "version": "1.0.0",
+  "description": "Application to encrypt/decrypt texts with the TENIS-POLAR combinations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lindennerd/tenispolar-encrypter.git"
+  },
+  "author": "Lindennerd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lindennerd/tenispolar-encrypter/issues"
+  },
+  "homepage": "https://github.com/Lindennerd/tenispolar-encrypter#readme",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
